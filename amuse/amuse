@@ -9,12 +9,6 @@
   <body>
     <nav>
        <li class="navli"><a href="../index.html"> HOME </a></li>
-      <li class="navli"><a href="../noun.html"> WAR </a></li>
-      <li class="navli"><a href="../convince.html"> CONVINCE </a></li>
-       <li class="navli"><a href="../food/food.html"> FOOD </a></li>
-      <li class="navli"><a href="../event/event.html"> EVENT </a></li>
-      <li class="navli"><a href="../final/final.html"> FINAL </a></li>
-      <li class="navli"><a href="../band/band.html"> BAND </a></li>
       <li class="navli"><a href="amuse.html"> CURRENT PAGE </a></li>
       <img id="logo" src = "https://www.freepnglogos.com/uploads/fortnite-png/fortnite-logo-fortnite-the-battle-building-2.png">
     </nav>
